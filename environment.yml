@@ -11,13 +11,11 @@ dependencies:
   - seaborn  
   - jupyterlab
   - jupyterhub
-  - nodejs
-  - hide_code  
+  - nodejs  
   - scipy
   - statsmodels
   - scikit-learn
-  - hdf5
-  - dateutil  
+  - hdf5 
   - cvxpy 
   - redis-py
   - websockets
