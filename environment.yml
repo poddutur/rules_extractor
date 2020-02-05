@@ -1,0 +1,32 @@
+name: rules_extractor_env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - numpy
+  - pandas
+  - requests
+  - matplotlib
+  - bokeh
+  - seaborn  
+  - jupyterlab
+  - jupyterhub
+  - nodejs
+  - hide_code  
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - hdf5
+  - dateutil  
+  - cvxpy 
+  - redis-py
+  - websockets
+  - pytables
+  - flask
+  - pika 
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - pip
+  - pip:
+    - notion
+    - filestack-python
